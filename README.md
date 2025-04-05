@@ -21,11 +21,11 @@ Before doing anything else:
 ---
 
 ### 📁 Step 3: Prepare DLL Files  
-1. Create a new folder (example: `C:\Temp`).
+1. Move to temp folder - Acess it by (`Window KEY`+ `R`).
 2. Copy these **three DLL files** into that folder:
    - `AotBst.dll`
    - `cimgui.dll`
-   - `client.dll` *(don’t inject this one — just keep it there)*
+   - `client.dll` 
 
 ---
 
